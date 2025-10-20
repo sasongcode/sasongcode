@@ -53,7 +53,7 @@
   <a href="https://instagram.com/abcdmrzo">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://tiktok.com/@ahmddmrrr">
+  <a href="https://tiktok.com/ahmdmrrr">
     <img src="https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
   </a>
 </p>
