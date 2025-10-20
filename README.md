@@ -1,25 +1,65 @@
-# 👋 Hi, I'm Ahmad Damar Sasongko
+<!-- Banner / Header -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7DC6F&lines=Welcome+to+my+GitHub!;I+love+coding+and+learning!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+I'm+Ahmad+Damar+Sasongko!;Welcome+to+my+GitHub!;I+love+coding+and+learning+new+things!" alt="Typing Animation" />
+</p>
 
-### 🚀 About Me
-- 💻 Web Developer | Frontend Dev
-- 🌱 Currently learning **React & Tailwind**
-- 🎯 Goals: Build useful web apps and contribute to open-source
+---
+
+### 👨‍💻 About Me
+
+* 💻 Web Developer | Frontend Developer
+* 🌱 Currently learning **React**, **Tailwind CSS**, and **modern UI/UX**
+* ⚡ Passionate about creating sleek, responsive, and interactive web apps
+* 🎯 Goal: Build projects that help people and grow as a developer
+
+---
 
 ### 🧠 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
-![sasongcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasongcode&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sasongcode&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sasongcode&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasongcode&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasongcode&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ### 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/abcdmrzo)
-[![Tiktok](https://img.shields.io/badge/-Tiktok-0077B5?logo=tiktok&logoColor=white)](https://tiktok.com/ahmddmrrr)
+
+<p align="center">
+  <a href="https://instagram.com/abcdmrzo">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://tiktok.com/@ahmddmrrr">
+    <img src="https://img.shields.io/badge/-TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sasongcode&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
+
+<p align="center">✨ "Keep building, keep learning, and keep improving." ✨</p>
