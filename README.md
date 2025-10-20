@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7DC6F&lines=Welcome+to+my+GitHub!;I+love+coding+and+learning!)](https://git.io/typing-svg)
 
 ### 🚀 About Me
-- 💻 Web Developer | Frontend Enthusiast
-- 🌱 Currently learning **React & Laravel**
+- 💻 Web Developer | Frontend Dev
+- 🌱 Currently learning **React & Tailwind**
 - 🎯 Goals: Build useful web apps and contribute to open-source
 
 ### 🧠 Tech Stack
@@ -13,7 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 
 ### 📊 GitHub Stats
 ![sasongcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasongcode&show_icons=true&theme=tokyonight)
