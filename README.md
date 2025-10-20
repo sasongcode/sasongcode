@@ -8,10 +8,10 @@
 
 ### 👨‍💻 About Me
 
-* 💻 Web Developer | Frontend Developer
-* 🌱 Currently learning **React**, **Tailwind CSS**, and **modern UI/UX**
+* 💻 Frontend | Web Development
+* 🌱 Currently learning **React**, **Tailwind CSS**, and **Typescript**
 * ⚡ Passionate about creating sleek, responsive, and interactive web apps
-* 🎯 Goal: Build projects that help people and grow as a developer
+* 🎯 Goals: Build projects that help people and grow as a developer
 
 ---
 
