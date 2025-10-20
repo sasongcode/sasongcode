@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 * 💻 Frontend | Web Development
-* 🌱 Currently learning **React**, **Tailwind CSS**, and **Typescript**
+* 🌱 Currently learning **React**, **Tailwind CSS**, and **TypeScript**
 * ⚡ Passionate about creating sleek, responsive, and interactive web apps
 * 🎯 Goals: Build projects that help people and grow as a developer
 
@@ -18,12 +18,12 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sasongcode&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sasongcode&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sasongcode&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sasongcode&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ### 🔥 Most Used Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasongcode&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasongcode&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
