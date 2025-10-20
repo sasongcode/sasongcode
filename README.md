@@ -23,4 +23,4 @@
 
 ### 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/abcdmrzo)
-[![Tiktok](https://img.shields.io/badge/-Tiktok-0077B5?logo=linkedin&logoColor=white)](https://tiktok.com/)
+[![Tiktok](https://img.shields.io/badge/-Tiktok-0077B5?logo=tiktok&logoColor=white)](https://tiktok.com/ahmddmrrr)
