@@ -22,6 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasongcode&layout=compact&theme=tokyonight)
 
 ### 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/abcdmrzo)
+[![Tiktok](https://img.shields.io/badge/-Tiktok-0077B5?logo=linkedin&logoColor=white)](https://tiktok.com/)
