@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ahmad+Damar+Sasongko!;Welcome+to+my+GitHub!; alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ahmad+Damar+Sasongko!;Welcome+to+my+GitHub! alt="Typing Animation" />
 </p>
 
 ---
