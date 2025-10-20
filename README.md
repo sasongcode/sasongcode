@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7DC6F&lines=Welcome+to+my+GitHub!;I+love+coding+and+learning!)](https://git.io/typing-svg)
 
-
 ### 🚀 About Me
 - 💻 Web Developer | Frontend Enthusiast
 - 🌱 Currently learning **React & Laravel**
