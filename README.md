@@ -39,14 +39,6 @@
 
 ---
 
-### 🔥 Most Used Languages
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasongcode&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
