@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasongcode&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sasongcode&label=👀+Profile+Views&color=8A2BE2&style=for-the-badge" alt="Profile views counter"/>
 </p>
 
 <p align="center">✨ "Keep building, keep learning, and keep improving." ✨</p>
